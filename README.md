@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CxBoris
 - 👀 I’m interested in programming etc.
-- 🌱 I’m currently learning Cs50x (Harvard)
+- 🌱 I’m currently learning CS50 (Harvard)
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me:
   - GitHub: CxBoris
